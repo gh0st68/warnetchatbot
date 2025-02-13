@@ -18,21 +18,11 @@ Gh0st Warnet ChatBot is a lightweight and user-friendly chatbot built for chatti
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Gh0st-Warnet-ChatBot.git
+   git clone https://github.com/yourusername/warnetchatbot.git
    cd Gh0st-Warnet-ChatBot
    ```
 
-2. **Install Dependencies:** *(Adjust based on your language or package manager.)*
-   ```bash
-   # Example for Node.js projects
-   npm install
-   ```
-
-3. **Configuration:** *(If required)*
-   ```bash
-   cp config.example.json config.json
-   # Then edit config.json with your preferred settings
-   ```
+2. Just run the bot
 
 ---
 
